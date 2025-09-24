@@ -6,3 +6,11 @@ Crear un codigo donde te haga una encuesta y que depende de lo que te salga te r
 
 Tipo de proyecto:
 Mi proyecto se basa en un codigo para que tu te des cuenta que tanto influyes en el calentamiento global (usar estrategias de negociacion)
+
+pd: Lo cambie a ultimo momento
+
+posposdata: lo cambie porque me parecia mas facil
+
+posposposposposposposdata: lo de posposposposposposposdata es un chiste
+
+posposposposposposposposposposposposposposposposposposposposposdata: Ya voy a parar
